@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rvtemilk
+- 👀 I’m interested in Game Development :3
+- 🌱 I’m currently learning C++ and Unreal Engine
+- 📫 How to reach me: rvtemilk@proton.me
+- 😄 Pronouns: whichever you like
